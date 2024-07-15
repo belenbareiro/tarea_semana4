@@ -1,0 +1,11 @@
+{
+  "name": "ajax_sample",
+  "version": "1.0.0",
+  "description": "Tarea AJAX Bootcamp Desarrollo Joven",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Test'"
+  },
+  "author": "Maria Estrella Belen Bareiro Baez",
+  "license": "ISC"
+}
